@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d42ed929.css","mappings":"AAAA,KAEI,qBAAsB,CADtB,iBAEJ,CACA,QAGI,qBAAsB,CADtB,SAAU,CADV,gBAGJ","sources":["App.css"],"sourcesContent":["body {\n    text-align: center;\n    background-color: grey;\n}\n.Button {\n    text-align: right;\n    color: red;\n    background-color: blue;\n}"],"names":[],"sourceRoot":""}
