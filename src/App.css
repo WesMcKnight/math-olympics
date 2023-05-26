@@ -2,8 +2,7 @@ body {
     text-align: center;
     background-color: grey;
 }
-.Button {
-    text-align: right;
-    color: red;
-    background-color: blue;
+.button {
+    color:white;
+    background-color: black;
 }
