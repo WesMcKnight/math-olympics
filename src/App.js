@@ -15,7 +15,7 @@ function App() {
           <div id='score'>score</div>
         </span>
         <h3>Which math challenge do you want?</h3>
-        <button type='button' onClick= {Addition()}>Addition</button>
+        <button type='button' onClick= {Addition}>Addition</button>
         
       </div>
     
