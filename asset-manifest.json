@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/math-olympics/static/css/main.d42ed929.css",
-    "main.js": "/math-olympics/static/js/main.7517f873.js",
+    "main.css": "/math-olympics/static/css/main.062048c0.css",
+    "main.js": "/math-olympics/static/js/main.49974639.js",
     "index.html": "/math-olympics/index.html",
-    "main.d42ed929.css.map": "/math-olympics/static/css/main.d42ed929.css.map",
-    "main.7517f873.js.map": "/math-olympics/static/js/main.7517f873.js.map"
+    "main.062048c0.css.map": "/math-olympics/static/css/main.062048c0.css.map",
+    "main.49974639.js.map": "/math-olympics/static/js/main.49974639.js.map"
   },
   "entrypoints": [
-    "static/css/main.d42ed929.css",
-    "static/js/main.7517f873.js"
+    "static/css/main.062048c0.css",
+    "static/js/main.49974639.js"
   ]
 }
