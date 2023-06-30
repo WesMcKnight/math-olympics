@@ -1,9 +1,10 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import './App.css';
 import Addition from './Addition';
+import { Button } from 'reactstrap';
 
 function App() {
-  const[score, setScore] = useState()
+  // const[score, setScore] = useState()
   
   return (
     <>
@@ -15,7 +16,12 @@ function App() {
         </span>
         <h3>Which math challenge do you want?</h3>
         <h4>Addition:</h4>
-        <Addition />
+        <Button
+          title='Click me'
+          onClick={<Addition />}
+        >
+          Addition
+        </Button>
       </div>
     
     </>
