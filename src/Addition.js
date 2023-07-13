@@ -1,10 +1,6 @@
-import { Modal } from "reactstrap";
+import { useState } from "react";
 
-function Addition () {
-    return (
-        <Modal>
-            Hi!
-        </Modal>
-    )
+function Addition (prop) {
+    const [count, setCount] = useState(prop)
 }
 export default Addition;
